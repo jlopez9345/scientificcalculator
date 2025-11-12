@@ -1,2 +1,3 @@
 # scientificcalculator
-This program is simply a scientific calculator.
+This program is a scientific calculator and perfroms various
+arithmetic and scientific operations.
